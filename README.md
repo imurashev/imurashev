@@ -4,13 +4,13 @@
 ### 👨‍💻 About me:
 
 I am a junior QA Engineer. I have recently completed a software testing course and continue to develop my skills in this field.
-My profile showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
+My portfolio showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
 I am currently based in Yerevan, Armenia.
 
 ---
 
 ### 💻 Test Artifacts:
-(available in English or Russian)
+(artifacts are in English or Russian)
 - [QA Testing Theory](https://github.com/imurashev/theory) - RUS
 - [Test Design](https://github.com/imurashev/design) - RUS
 - [Test Documentation](https://github.com/imurashev/docs) - ENG
