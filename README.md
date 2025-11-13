@@ -6,7 +6,7 @@
 I am a junior QA Engineer. I have recently completed a software testing course and continue to develop my skills in this field.
 My portfolio showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
 I am currently based in Yerevan, Armenia.
-### [My CV](https://drive.google.com/file/d/13XU7O7QrrUejGnt-39mAvAmfH0DGGmpz/view?usp=sharing)
+### [My CV](https://drive.google.com/file/d/1YJU98Ohkrc4WhJ4B_Sl_bZWhZJGB0tv_/view?usp=sharing)
 ---
 
 ### 💻 Test Artifacts:
