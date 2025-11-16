@@ -3,22 +3,19 @@
 
 ### 👨‍💻 About me:
 
-I am a junior QA Engineer. I have recently completed a software testing course and continue to develop my skills in this field.
+I am a QA Engineer, currently based in Yerevan, Armenia. I have recently completed a software testing course and continue to develop my skills in this field.
 My portfolio showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
-I am currently based in Yerevan, Armenia.
+
 ### [My CV](https://drive.google.com/file/d/1YJU98Ohkrc4WhJ4B_Sl_bZWhZJGB0tv_/view?usp=sharing)
 ---
 
 ### 💻 Test Artifacts:
-(artifacts are in English or Russian)
-- [QA Testing Theory](https://github.com/imurashev/theory) - RUS
-- [Test Design](https://github.com/imurashev/design) - RUS
-- [Test Documentation](https://github.com/imurashev/docs) - ENG
-- [API Testing](https://github.com/imurashev/api) - ENG/RUS
-- [Working with Databases](https://github.com/imurashev/database) - RUS
-- [Web Application Testing](https://github.com/imurashev/web) - ENG/RUS
-- [Mobile Application Testing](https://github.com/imurashev/mobile) - RUS
-- [Git & Bash](https://github.com/imurashev/git_bash) - RUS
+- [Web Application Testing](https://github.com/imurashev/web) - exploratory and functional testing of the online store: checklist, test cases, test run results, bug reports, etc
+- [Test Design](https://github.com/imurashev/design) - applying various test design techniques to test different features of the online store
+- [API Testing](https://github.com/imurashev/api) - testing REST and SOAP APIs via Postman
+- [Working with Databases](https://github.com/imurashev/database) - MySQL and MongoDB queries
+- [Git & Bash](https://github.com/imurashev/git_bash) - basic Bash command exercises
+- [Mobile Application Testing (RUS)](https://github.com/imurashev/mobile) (the artifacts are available only in Russian) - exploratory and functional testing of the shopping list app (Android): checklist, test cases, test run results, bug reports, etc
 
 ---
 
@@ -46,4 +43,4 @@ I am currently based in Yerevan, Armenia.
 
 ---
 
-### 📫 Сontact me: [![LinkedIn Badge](https://img.shields.io/badge/-@imurashev-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/imurashev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imurashev.la@gmail.com)
+### 📫 Сontact me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/imurashev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imurashev.la@gmail.com)
