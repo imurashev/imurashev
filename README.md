@@ -1,15 +1,9 @@
-# Hello, my name is Ilia!
-
-
-### 👨‍💻 About me:
-
-I am a QA Engineer, currently based in Yerevan, Armenia. I have recently completed a software testing course and continue to develop my skills in this field.
+## 👋 Hello, my name is Ilia!
+I am a **QA Engineer** with hands-on experience in __web__, __API__, __mobile__, and __database testing__, currently based in __Yerevan, Armenia__. I have recently completed a software testing course and continue to develop my skills in this field.
 My portfolio showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
 
-### [My CV](https://drive.google.com/file/d/1YJU98Ohkrc4WhJ4B_Sl_bZWhZJGB0tv_/view?usp=sharing)
----
-
-### 💻 Test Artifacts:
+Check out [my cv](https://drive.google.com/file/d/1YJU98Ohkrc4WhJ4B_Sl_bZWhZJGB0tv_/view?usp=sharing).
+## 💻 Test Artifacts:
 - [Web Application Testing](https://github.com/imurashev/web) - exploratory and functional testing of the online store: checklist, test cases, test run results, bug reports, etc
 - [Test Design](https://github.com/imurashev/design) - applying various test design techniques to test different features of the online store
 - [API Testing](https://github.com/imurashev/api) - testing REST and SOAP APIs via Postman
@@ -17,30 +11,30 @@ My portfolio showcases the skills I gained during the training, as well as test 
 - [Git & Bash](https://github.com/imurashev/git_bash) - basic Bash command exercises
 - [Mobile Application Testing (RUS)](https://github.com/imurashev/mobile) (the artifacts are available only in Russian) - exploratory and functional testing of the shopping list app (Android): checklist, test cases, test run results, bug reports, etc
 
----
+## 🛠 Tools I Use:
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" title="Jira" alt="Jira" height="40"/>
+  <img src="https://img.shields.io/badge/YouTrack-FF308C.svg?style=for-the-badge&logo=YouTrack&logoColor=white" title="YouTrack" alt="YouTrack" height="40"/
+  <img src="https://img.shields.io/badge/TestRail-65C179.svg?style=for-the-badge&logo=TestRail&logoColor=white" title="TestRail" alt="TetstRail" height="40"/>
+  <img src="https://img.shields.io/badge/Qase-4F46DC.svg?style=for-the-badge&logo=Qase&logoColor=white" title="Qase" alt="Qase" height="40"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" height="40"/>
+  <img src="https://img.shields.io/badge/Dev%20Tools-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" title="DevTools" alt="DevTools" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" height="40"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" title="Swagger" alt="Swagger" height="40"/>
+  <img src="https://img.shields.io/badge/SoapUI-FCDC00.svg?style=for-the-badge&logo=SoapUI&logoColor=white" title="SoapUI" alt="SoapUI" height="40"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" title="Android Studio" alt="Android Studio" height="40"/>
+  <img src="https://img.shields.io/badge/Charles-F3F5F5.svg?style=for-the-badge&logo=Charles&logoColor=black" title="Charles Proxy" alt="Charles Proxy" height="40"/>
+  <img src="https://img.shields.io/badge/Fiddler-75D336.svg?style=for-the-badge&logo=Fiddler&logoColor=white" title="Fiddler" alt="Fiddler" height="40"/>
+  <img src="https://img.shields.io/badge/Proxyman-1A8AEE.svg?style=for-the-badge&logo=Proxyman&logoColor=white" title="Proxyman" alt="Proxyman" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="MongoDB" alt="MongoDB" height="40"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver" alt="DBeaver" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" height="40"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" title="Bash" alt="Bash" height="40"/>
+  <img src="https://img.shields.io/badge/VSCode-0179CB.svg?style=for-the-badge&logo=VSCode&logoColor=white" title="VSCode" alt="VSCode" height="40"/>
 
-### 🛠 Tools I use:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" alt="TetstRail" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="Proxyman" alt="Proxyman" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
-  </div>
 
----
+### 📫 Let’s get in touch and work together! 
 
-### 📫 Сontact me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/imurashev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imurashev.la@gmail.com)
+<a href="https://www.linkedin.com/in/imurashev"><img src="https://camo.githubusercontent.com/7fb02bf577d51ada344e93fc2c316479fdfdb6b9a2db125c6fe5949b17cf4c10/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d313339333026666f726d61743d706e67" width="40" height="40"/></a>
+<a href="mailto:imurashev.la@gmail.com"><img src="https://camo.githubusercontent.com/a1ec7b8292eff4c3fb3831fb83ee30d5a0a8f3a2bc5fbdd27bb741932d34d9bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d503755496c686270577a5a6d26666f726d61743d706e67" width="40" height="40"/></a>
