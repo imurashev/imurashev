@@ -1,5 +1,7 @@
 ## 👋 Hello, my name is Ilia!
-I am a **QA Engineer** with hands-on experience in __web__, __API__, __mobile__, and __database testing__, currently based in __Yerevan, Armenia__. I have recently completed a software testing course and continue to develop my skills in this field.
+I am a **QA Engineer** with hands-on experience in __web__, __API__, __mobile__, and __database testing__, currently based in __Yerevan, Armenia__. 
+
+I have recently completed a software testing course and continue to develop my skills in this field.
 My portfolio showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
 
 Check out [my cv](https://drive.google.com/file/d/1YJU98Ohkrc4WhJ4B_Sl_bZWhZJGB0tv_/view?usp=sharing).
