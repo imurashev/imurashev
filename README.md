@@ -4,7 +4,7 @@ I am a **QA Engineer** with hands-on experience in __web__, __API__, __mobile__,
 I have recently completed a software testing course and continue to develop my skills in this field.
 My portfolio showcases the skills I gained during the training, as well as test artifacts created while completing course assignments.
 
-Check out [my cv](https://drive.google.com/file/d/1YJU98Ohkrc4WhJ4B_Sl_bZWhZJGB0tv_/view?usp=sharing).
+You are welcome to check out [my cv](https://drive.google.com/file/d/1g5WJ7LNab262cWdJVPP5_ef9xtpMMJTf/view?usp=sharing).
 ## 💻 Test Artifacts:
 - [Web Application Testing](https://github.com/imurashev/web) - exploratory and functional testing of the online store: checklist, test cases, test run results, bug reports, etc
 - [Test Design](https://github.com/imurashev/design) - applying various test design techniques to test different features of the online store
