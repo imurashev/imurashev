@@ -17,9 +17,9 @@ You are welcome to check out [my cv](https://drive.google.com/file/d/1g5WJ7LNab2
 <div align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" title="Jira" alt="Jira" height="40"/>
   <img src="https://img.shields.io/badge/YouTrack-FF308C.svg?style=for-the-badge&logo=YouTrack&logoColor=white" title="YouTrack" alt="YouTrack" height="40"/
-  <img src="https://img.shields.io/badge/TestRail-65C179.svg?style=for-the-badge&logo=TestRail&logoColor=white" title="TestRail" alt="TetstRail" height="40"/>
-  <img src="https://img.shields.io/badge/Qase-4F46DC.svg?style=for-the-badge&logo=Qase&logoColor=white" title="Qase" alt="Qase" height="40"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" height="40"/>
+  <img src="https://img.shields.io/badge/Qase-4F46DC.svg?style=for-the-badge&logo=Qase&logoColor=white" title="Qase" alt="Qase" height="40"/>
+  <img src="https://img.shields.io/badge/TestRail-65C179.svg?style=for-the-badge&logo=TestRail&logoColor=white" title="TestRail" alt="TetstRail" height="40"/>
   <img src="https://img.shields.io/badge/Dev%20Tools-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" title="DevTools" alt="DevTools" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" height="40"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" title="Swagger" alt="Swagger" height="40"/>
